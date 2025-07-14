@@ -1,4 +1,4 @@
-![](ui_snapshot.jpg)
+
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
