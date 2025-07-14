@@ -31,7 +31,7 @@
   font-family: MerriweatherRegular;
   font-size: 30px;
   line-height: initial;
-  color: blue;
+  color: gray;
   text-align: center;
 }
 
@@ -42,7 +42,7 @@
 }
 
 #classTable td, #classTable th {
-  border: 1px solid #ddd;
+  border: 1px solid black;
   padding: 8px;
 }
 
@@ -50,6 +50,6 @@
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #4CAF50;
+  background-color: #3FF50;
   color: white;
 }
